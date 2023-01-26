@@ -1,4 +1,6 @@
-### Hi there 👋
+<h1 align="center">🦾 Arjay Jean</h1>
+
+**`Data Engineer / ETL Developer`**
 
 <!--
 **arjayjean/ArjayJean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

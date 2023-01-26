@@ -1,11 +1,7 @@
-<p align="center">
-<img src="https://user-images.githubusercontent.com/97479656/214839712-7558c897-7944-4eb1-92db-3a4555406516.png">
-</p>
-
-<!-- <h1 align="center">🦾 Arjay Jean</h1>
+<h1 align="center">🦾 Arjay Jean</h1>
 
 <h3 align="center">👨🏾‍💻 Data Engineer / ETL Developer ⚙️</h3>
-<hr> -->
+<hr>
 
 
 <!--

@@ -1,6 +1,6 @@
 <h1 align="center">🦾 Arjay Jean</h1>
 
-<h3 align="center">👨🏾‍💻 Cloud Data Engineer / ETL Developer ⚙️</h3>
+<h3 align="center">👨🏾‍💻 DevOps Engineer / System Administrator ⚙️</h3>
 <hr>
 
 
